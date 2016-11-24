@@ -11,7 +11,7 @@ git add [ファイル名]
 git commit -m "[メッセージ]"  
 
 4.git push [gitへファイルをアップする]  
-git push -u originmaster  
+git push -u origin master  
 
 5.git pull [ローカルのファイルをgitの状態に更新]  
 git pull  
