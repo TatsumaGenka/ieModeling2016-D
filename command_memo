@@ -1,17 +1,17 @@
-プロジェクトファイル名
-ieModeling2016-D
+プロジェクトファイル名  
+ieModeling2016-D  
 
-1.git clone [gitからローカルへファイルをコピーする]
-git clone git@github.com:tatsumaGenka/ieModeling2016-D.git
+1.git clone [gitからローカルへファイルをコピーする]  
+git clone git@github.com:tatsumaGenka/ieModeling2016-D.git  
 
-2.git add [gitへアップするファイルを追加]
-git add [ファイル名]
+2.git add [gitへアップするファイルを追加]  
+git add [ファイル名]  
 
-3.git commit [ファイルにコメントをつける]
-git commit -m "[メッセージ]"
+3.git commit [ファイルにコメントをつける]  
+git commit -m "[メッセージ]"  
 
-4.git push [gitへファイルをアップする]
-git push -u originmaster
+4.git push [gitへファイルをアップする]  
+git push -u originmaster  
 
-5.git pull [ローカルのファイルをgitの状態に更新]
-git pull
+5.git pull [ローカルのファイルをgitの状態に更新]  
+git pull  
